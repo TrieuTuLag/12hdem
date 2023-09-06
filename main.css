@@ -1,0 +1,40 @@
+body {
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+    background-color: rgb(219, 217, 214);
+    margin: ;
+}
+#box1 {
+    color: aliceblue;
+    background-color: rgb(66, 62, 62);
+    width: 100% ;
+    height: 100px ;
+    box-sizing: border-box ;
+    text-align: center;
+    padding-top: 5px;
+    font-size: 30px ;
+}
+#box1 ul li a {
+    color: #FFF;
+    text-decoration: none ; 
+}
+#box1 ul li {
+    display: inline;
+    list-style-type: none;
+}
+
+#box1 ul li a:hover {
+    color: #FFF;
+    background-color:grey;
+    padding : 31px ; 
+ }
+ #box2 {
+    padding-left: 10px;"
+ }
+#box3 {
+    margin-top: 253px;
+	background-color: rgb(66, 62, 62);
+	text-align: center;
+    color: #FFF;
+}
